@@ -200,7 +200,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.2.0",
+                "php": "^7.2.0"
             },
             "require-dev": {
                 "chuyskywalker/rolling-curl": "^3.1",
@@ -9662,7 +9662,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.2.0",
+                "php": "^7.2.0"
             },
             "type": "library",
             "extra": {
@@ -9848,3 +9848,4 @@
     "platform-overrides": {
         "ext-mongo": "1.6.16"
     }
+}
